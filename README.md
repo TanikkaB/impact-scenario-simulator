@@ -60,8 +60,58 @@ _Add screenshots here_
 
 ## ⚙️ How to Run Locally
 
+1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR-USERNAME/impact-scenario-simulator.git
+```
+2. Navigate into the project folder:
+```bash
 cd impact-scenario-simulator
+```
+3. Install dependencies:
+```bash
 pip install -r requirements.txt
+```
+4. Run the app:
+```bash
 streamlit run app.py
+```
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- Pandas  
+- Streamlit
+
+---
+
+## 🚀 Live Demo
+
+[Coming soon]
+
+---
+
+## 📁 Repository
+
+https://github.com/TanikkaB/impact-scenario-simulator
+
+---
+
+## 📌 Notes
+
+- This project is part of a portfolio demonstrating analytical tooling and decision-support workflows.
+- Demo data is synthetic and included for illustration purposes.  
+- This model is assumption-based and intended for exploration
+- Not a predictive system
+
+---
+
+## 🔗 Related Project
+
+Part of the **Impact Analytics Suite**  
+[View the full suite](https://github.com/TanikkaB/impact-analytics-suite)
+
+This project focuses on clarity, usability, and decision support rather than model complexity.
+
+---
